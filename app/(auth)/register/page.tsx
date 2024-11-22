@@ -65,7 +65,7 @@ export default function RegisterPage() {
 
       toast({
         title: "success",
-        description: "something went wrong",
+        description: "registation succeessful",
         variant:"success"
       })
 
